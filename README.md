@@ -53,7 +53,7 @@ for i in range(n):
 ```
 
 ## Output:
-![github logo](gausion)
+![github logo](gausion.png)
 
 
 ## Result:
